@@ -98,11 +98,11 @@ body {
 	text-transform: uppercase;
 }
 .top_contacts {
-	background-color: #2787af;
-	float: right;
-	font-size: 30px;
-	line-height: 53px;
-	padding: 0 15px;
+    background-color: #2787af;
+    float: right;
+    font-size: 24px;
+    line-height: 49px;
+    padding: 1px 15px;
 }
 .maian_mnu ul li {
 	display: inline-block;
