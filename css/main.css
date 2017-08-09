@@ -100,12 +100,9 @@ body {
 .top_contacts {
     background-color: #2787af;
     float: right;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 49px;
-    padding: 1px 15px;
-}
-.maian_mnu ul li {
-	display: inline-block;
+    padding: 1px 8px;
 }
 .maian_mnu ul {
 	z-index: 12;
